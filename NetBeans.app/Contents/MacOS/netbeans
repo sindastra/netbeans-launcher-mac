@@ -1,0 +1,5 @@
+#!/bin/sh
+
+/Applications/NetBeans/netbeans/bin/netbeans --jdkhome /Applications/NetBeans/JDKHOME
+
+exit 0
