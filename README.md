@@ -13,10 +13,11 @@ Normally launch NetBeans using this launcher from now on. Place it into your doc
 
 Just to clarify, this is what the folder structure should look like (case sensitive):
 ```
-/Applications
-|- NetBeans
-  |- netbeans
-  |- JDKHOME
-  |- NetBeans.app
+/
+|- Applications
+  |- NetBeans
+    |- netbeans
+    |- JDKHOME
+    |- NetBeans.app
 ```
 Where "netbeans" is the downloaded version of Apache NetBeans (containing the folder "bin") and "JDKHOME" is either a symlink to JDKHOME or the JDKHOME contents itself.
