@@ -30,4 +30,4 @@ Get it from the [RELEASES](https://github.com/sindastra/netbeans-launcher-mac/re
 
 # Installation
 
-Simply download the "source" ZIP and install the NetBeans.app as described in this README.md (Quick Start Guide)
+Simply download the "source" ZIP (or tarball) and install the NetBeans.app as described in this README.md (Quick Start Guide)
