@@ -21,3 +21,7 @@ Just to clarify, this is what the folder structure should look like (case sensit
     |- NetBeans.app
 ```
 Where "netbeans" is the downloaded version of Apache NetBeans (containing the folder "bin") and "JDKHOME" is either a symlink to JDKHOME or the JDKHOME contents itself.
+
+# Installation
+
+Simply download the "source" ZIP and install the NetBeans.app as described in this README.md
