@@ -1,3 +1,5 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W215OZB)
+
 # netbeans-launcher-mac
 Much desired NetBeans launcher for Mac
 
